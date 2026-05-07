@@ -1,14 +1,24 @@
 # Ignacio Sánchez Greppi
 
-👋 ¡Hola! Soy Full Stack Developer con base en Montevideo, Uruguay. Construyo productos web reales — desde la interfaz hasta la API — con React, Node.js y MongoDB.
+Full Stack Developer in Montevideo, Uruguay. I build real web products — from the interface to the API — with React, Node.js and MongoDB.
 
-Desde 2023 trabajé con clientes reales entregando sitios completos end-to-end: desde el diseño hasta el deploy.
+Since 2023 I've worked with real clients delivering complete sites end-to-end: from design to deployment.
 
 ---
 
-## Tecnologías 🚀
+## About me
 
-### Lenguajes 💻
+- 🌍 Based in Montevideo, Uruguay
+- 💼 Full Stack Developer — Frontend, Backend & everything in between
+- 🎓 Certified at Coderhouse — Web Development, JavaScript, React JS, Backend I, II & III
+- 📫 Reach me at **isanchez.workmail@gmail.com**
+- 🔗 Portfolio: coming soon
+
+---
+
+## Tech Stack 🚀
+
+### Languages 💻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +39,7 @@ Desde 2023 trabajé con clientes reales entregando sitios completos end-to-end: 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Bases de datos 🛢️
+### Databases 🛢️
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +49,7 @@ Desde 2023 trabajé con clientes reales entregando sitios completos end-to-end: 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 
-### DevOps y herramientas 🛠️
+### DevOps & Tools 🛠️
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -54,9 +64,7 @@ Desde 2023 trabajé con clientes reales entregando sitios completos end-to-end: 
 
 ---
 
-## Contacto 📬
+## Contact 📬
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/ignacio-sánchez-greppi-30128b3a6/)
-[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/nachitosanchezz_/)
-
-📧 isanchez.workmail@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-sánchez-greppi-30128b3a6/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isanchez.workmail@gmail.com)

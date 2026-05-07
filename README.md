@@ -1,6 +1,6 @@
 # Ignacio Sánchez Greppi
 
-Full Stack Developer in Montevideo, Uruguay. I build real web products — from the interface to the API — with React, Node.js and MongoDB.
+Full Stack Developer Located in Montevideo, Uruguay. I build real web products — from the interface to the API — with React, Node.js and MongoDB.
 
 Since 2023 I've worked with real clients delivering complete sites end-to-end: from design to deployment.
 
@@ -8,10 +8,10 @@ Since 2023 I've worked with real clients delivering complete sites end-to-end: f
 
 ## About me
 
-- 🌍 Based in Montevideo, Uruguay
+- 🌍 Located in Montevideo, Uruguay
 - 💼 Full Stack Developer — Frontend, Backend & everything in between
 - 🎓 Certified at Coderhouse — Web Development, JavaScript, React JS, Backend I, II & III
-- 📫 Reach me at **isanchez.workmail@gmail.com**
+- 📬 Open to freelance projects and job opportunities
 - 🔗 Portfolio: coming soon
 
 ---
@@ -64,7 +64,15 @@ Since 2023 I've worked with real clients delivering complete sites end-to-end: f
 
 ---
 
+## GitHub Stats 📊
+
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanchezign&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezign&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## Contact 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-sánchez-greppi-30128b3a6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nachitosanchezz_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isanchez.workmail@gmail.com)

@@ -12,7 +12,7 @@ Since 2023 I've worked with real clients delivering complete sites end-to-end: f
 - 💼 Full Stack Developer — Frontend, Backend & everything in between
 - 🎓 Certified at Coderhouse — Web Development, JavaScript, React JS, Backend I, II & III
 - 📬 Open to freelance projects and job opportunities
-- 🔗 Portfolio: coming soon
+- 🔗 Portfolio: [Click para visualizar](https://ignaciosanchez.vercel.app/)
 
 ---
 

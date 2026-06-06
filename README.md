@@ -1,8 +1,6 @@
 # Ignacio Sánchez Greppi
 
-Full Stack Developer located in Montevideo, Uruguay. I build real web products — from the interface to the API — with React, Node.js and MongoDB.
-
-Since 2023 I've worked with real clients delivering complete sites end-to-end: from design to deployment.
+I turn ideas into working digital solutions. Since 2023 I've delivered complete end-to-end solutions for clients handling everything from frontend to backend and deployment.
 
 ---
 

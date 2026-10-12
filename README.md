@@ -14,7 +14,7 @@ I build websites, applications and AI-powered automations, and ship them to prod
 - 🎓 Coderhouse Full Stack Developer program, **Top 10 distinction**: Web Development, JavaScript, React JS, Backend I, II & III
 - 📜 Claude Academy (Anthropic): Claude Code 101, Claude Code in Action, Model Context Protocol: Advanced Topics
 - 📬 Open to full-time roles and freelance projects
-- 🔗 Portfolio: [ignaciosanchez.vercel.app](https://ignaciosanchez.vercel.app/)
+- 🔗 Portfolio: [www.sanchezign.dev](https://www.sanchezign.dev)
 
 ---
 
@@ -125,5 +125,5 @@ AI operations agent for businesses that run on WhatsApp. It reads price lists, o
 
 ## Contact 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ign-sanchez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchezign)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isanchez.workmail@gmail.com)

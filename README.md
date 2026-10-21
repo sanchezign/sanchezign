@@ -26,7 +26,7 @@ AI operations agent for businesses that run on WhatsApp. It reads price lists, o
 
 - 🧠 3 agents orchestrated with **n8n** and **Claude** (structured outputs validated with Zod), with human review for uncertain data
 - 🛡️ Prompt injection defense: a real-model evaluation passed **8/8** cases
-- ✅ **1,900+ automated tests**, **80% mutation score**, CI/CD with GitHub Actions
+- ✅ **2,100+ automated tests**, **80% mutation score**, CI/CD with GitHub Actions
 - 💸 Total AI spend during development: about **USD 0.32**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://smartops-demo.duckdns.org)

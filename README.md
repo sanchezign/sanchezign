@@ -2,7 +2,12 @@
 
 ### Full Stack Developer | AI Automation
 
-I build websites, applications and AI-powered automations, and ship them to production with Node.js, TypeScript, React and Next.js. Since 2023 I've worked with freelance clients, and today I focus on automating business processes with AI agents, n8n and the WhatsApp Business API.
+Full Stack Developer specializing in web development and AI automation. Since 2023, I have built websites and
+applications for clients with React, Next.js, Node.js and TypeScript, and shipped them to production. I also develop AI
+agents for WhatsApp with Claude and n8n, backed by automated tests and CI/CD, and offer tailored automations for
+businesses through Workana. I am looking for a long-term role where I can contribute full stack development with a focus
+on quality, security and results.
+
 
 ---
 

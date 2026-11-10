@@ -1,8 +1,8 @@
 # Ignacio Sánchez Greppi
 
-### Full Stack Developer | AI Automation
+### Full Stack Software Engineer | React • Next.js • Node.js • TypeScript | AI Agents & Automation (Claude, n8n)
 
-Full Stack Developer specializing in web development and AI automation. Since 2023, I have built websites and
+Full Stack Software Engineer specializing in web development and AI automation. Since 2023, I have built websites and
 applications for clients with React, Next.js, Node.js and TypeScript, and shipped them to production. I also develop AI
 agents for WhatsApp with Claude and n8n, backed by automated tests and CI/CD, and offer tailored automations for
 businesses through Workana. I am looking for a long-term role where I can contribute full stack development with a focus
@@ -14,7 +14,7 @@ on quality, security and results.
 ## About me
 
 - 🌍 Located in Montevideo, Uruguay
-- 💼 Full Stack Developer specializing in web development and AI automation
+- 💼 Full Stack Software Engineer specializing in web development, AI agents and automation
 - 🤖 Building AI agents and automations with Claude, n8n and the WhatsApp Business API
 - 🎓 Coderhouse Full Stack Developer program, **Top 10 distinction**: Web Development, JavaScript, React JS, Backend I, II & III
 - 📜 Claude Academy (Anthropic): Claude Code 101, Claude Code in Action, Model Context Protocol: Advanced Topics
